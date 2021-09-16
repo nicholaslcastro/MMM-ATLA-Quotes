@@ -24,7 +24,7 @@ modules:[
 ```
 
 ## Screenshots
-[Avatar Quotes Screenshot](ATLA-Quotes-Screenshot.png)
+![Avatar Quotes Screenshot](ATLA-Quotes-Screenshot.png)
 
 
 
